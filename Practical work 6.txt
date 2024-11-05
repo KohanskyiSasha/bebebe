@@ -11,14 +11,17 @@ int main()
 	//Завдання 1
 	
 
-
+ parhomenko loh
+ 
 	double a, b, c, x, F;
 cout << "Input a, b, c, x:";
 cin >> a >> b >> c >> x;
 if (x == 0 && b != 0) {
-	F = a;
+
 }
 
+
+fgsvtbtrevdctdfvh
 
 drttyvrtdhgbdfg
 else
