@@ -14,3 +14,7 @@ int main()
 cout << "Input a, b, c, x:";
 cin >> a >> b >> c >> x;
 
+#include <conio.h>
+#include <iomanip>
+
+#include <iomanip>
