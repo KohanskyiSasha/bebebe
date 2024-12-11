@@ -24,3 +24,11 @@ int main()
 	double a, b, c, x, F;
 cout << "Input a, b, c, x:";
 cin >> a >> b >> c >> x;
+	
+double a, b, c, x, F;
+cout << "Input a, b, c, x:";
+cin >> a >> b >> c >> x;
+	
+double a, b, c, x, F;
+cout << "Input a, b, c, x:";
+cin >> a >> b >> c >> x;
